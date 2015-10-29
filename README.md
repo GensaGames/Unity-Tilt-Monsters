@@ -6,8 +6,8 @@ the project on the Corona SDK). Resources of the game, later used by other proje
 
 <br/><br/>
 
-<img src="https://gitlab.com/GensaGamesProjects/Tilt-Monsters-Unity-Version/raw/master/Screenshots/1.png" />
+<img src="https://gitlab.com/GensaGamesProjects/Tilt-Monsters-Unity-Version/raw/master/Screenshots/1.png" width="700" height="400"/>
 <br/><br/>
-<img src="https://gitlab.com/GensaGamesProjects/Tilt-Monsters-Unity-Version/raw/master/Screenshots/2.png" />
+<img src="https://gitlab.com/GensaGamesProjects/Tilt-Monsters-Unity-Version/raw/master/Screenshots/2.png" width="700" height="400"/>
 <br/><br/>
-<img src="https://gitlab.com/GensaGamesProjects/Tilt-Monsters-Unity-Version/raw/master/Screenshots/3.gif" />
+<img src="https://gitlab.com/GensaGamesProjects/Tilt-Monsters-Unity-Version/raw/master/Screenshots/3.png" width="700" height="400"/>
