@@ -1,4 +1,4 @@
-<b>Tilt Monsters Unity Version </b>
+<b>Unity Game "Cave Monsters"</b>
 <br/><br/>
 The game is based on the original image of the old game Tilt Monsters.  <br/>
 Fully implemented on the platform of Unity (publisher of the game implemented <br/>
